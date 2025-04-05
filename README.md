@@ -1,7 +1,4 @@
 # Diabetes-Predicting-Logistic-Regression-Model
-
-# MA4144 In-Class Project 1: Basics
-
 ## Overview
 
 Train a logistic regression model on the diabetes dataset to predict the risk of diabetes given patient data then use it to perform predictions on previously unseen (test) data.
